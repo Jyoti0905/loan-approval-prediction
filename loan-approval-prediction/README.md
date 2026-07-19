@@ -15,12 +15,7 @@ Financial institutions receive thousands of loan applications daily. Manually re
 - **Modeled on:** [Kaggle - Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 - **Records:** 614 rows × 13 columns
 - **Target Variable:** `Loan_Status` (Y = Approved, N = Rejected)
-- **Note:** This repository includes a synthetic loan dataset with the same structure as the Kaggle Loan Prediction dataset for demonstration and learning purposes.,
-  built with the same columns/shape as the real Kaggle dataset and genuine
-  underlying relationships (credit history, income, education, etc. actually
-  drive approval) so the models below have real signal to learn from. **If you
-  have access to the real Kaggle dataset, just drop it into `data/loan_data.csv`
-  (same column names) and everything else still works as-is.**
+- **Note:** This repository includes a synthetic loan dataset with the same structure as the Kaggle Loan Prediction dataset for demonstration and learning purposes.
 
 ### Features Used:
 | Feature | Description |
