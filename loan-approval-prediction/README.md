@@ -67,7 +67,7 @@ loan-approval-prediction/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/loan-approval-prediction.git
+git clone https://github.com/Jyoti0905/loan-approval-prediction.git
 cd loan-approval-prediction
 ```
 
@@ -116,14 +116,21 @@ This project was missing pieces and had one real bug — here's what was fixed:
   `plt.show()` for `plt.close(fig)` so the script runs the same in a terminal,
   CI, or notebook without hanging on a display window.
 
-## 📈 Results
+<!-- ## 📈 Results
 
 Measured after the fixes above, on the included synthetic dataset:
 
 | Model | Accuracy |
 |---|---|
 | Logistic Regression | ~89% |
-| Random Forest | ~87% |
+| Random Forest | ~87% | -->
+
+## 📈 Results
+
+| Model | Accuracy |
+|---------|---------|
+| Logistic Regression | 88.62% |
+| Random Forest | 86.99% |
 
 ### Key Findings:
 - **Credit History** is the most important feature for loan approval
@@ -143,6 +150,6 @@ Measured after the fixes above, on the included synthetic dataset:
 
 ## 📬 Contact
 
-**Your Name**  
-📧 your.email@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/YOUR_USERNAME)
+**Jyoti Kumari**  
+📧 jyotikumari090504@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jyoti-kumari-b236a4321/) | [GitHub](https://github.com/Jyoti0905)
